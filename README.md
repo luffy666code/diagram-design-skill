@@ -144,7 +144,6 @@ The exact commands differ per platform and change over time, so do not rely on a
 ```
 diagram-design/
 ├─ SKILL.md            # The skill itself: the instruction pack the agent reads first
-├─ Skillicon.png       # Icon for the skill
 ├─ assets/             # Finished example HTML per type + the three starter templates (162 files)
 ├─ references/        # Per-type, per-pattern, and spec docs loaded on demand (56 md files)
 ├─ scripts/           # Four Python helpers: 3 extractors + self_check

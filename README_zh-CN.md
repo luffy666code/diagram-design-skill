@@ -144,7 +144,6 @@ flowchart LR
 ```
 diagram-design/
 ├─ SKILL.md            # Skill 本体：Agent 最先读的指令包
-├─ Skillicon.png       # Skill 图标
 ├─ assets/             # 每种类型的成品示例 HTML + 三个起始模板（162 个文件）
 ├─ references/         # 按类型/主题按需加载的参考文档（56 个 md）
 ├─ scripts/            # 4 个 Python 辅助脚本：3 个提取器 + self_check
